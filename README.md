@@ -1,3 +1,7 @@
+![Backend](https://img.shields.io/badge/Backend-.NET%2010-512BD4?logo=dotnet&logoColor=white)
+![Database](https://img.shields.io/badge/Database-PostgreSQL%2016-4169E1?logo=postgresql&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infra-Docker-2496ED?logo=docker&logoColor=white)
+
 ### Run me
 
 For convenience purposes, a ``run.sh`` script is available which is essentially a wrapper on top of ``docker compose``.
