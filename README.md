@@ -1,4 +1,4 @@
-#### Run me
+### Run me
 
 For convenience purposes, a ``run.sh`` script is available which is essentially a wrapper on top of ``docker compose``.
 It is meant to do the following:
@@ -22,6 +22,8 @@ $ ./run.sh
 
 The first run may take a while, as docker fetches the dotnet image(s). 
 Once all containers are up and running, you can start interacting with the ``cms api`` via curl.
+
+---
 
 ##### Examples:
 
