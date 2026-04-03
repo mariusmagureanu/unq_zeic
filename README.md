@@ -44,7 +44,7 @@ Check the cms api health
 $  curl 127.1:8080/health -H "Authorization: Basic $BASICAUTH"
 ```
 
-Post some events
+Post a test event (assumes the **data.json** file)
 
 ```shell
 $ curl 127.1:8080/cms/events -d "@data.json" -H "Content-Type: application/json" -H "Authorization: Basic $BASICAUTH"
